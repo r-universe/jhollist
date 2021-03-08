@@ -3,3 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dadjokeapi"]
+	path = dadjokeapi
+	url = https://github.com/jhollist/dadjokeapi
+	shallow = true
+[submodule "elevatr"]
+	path = elevatr
+	url = https://github.com/jhollist/elevatr
+	shallow = true
+[submodule "quickmapr"]
+	path = quickmapr
+	url = https://github.com/jhollist/quickmapr
+	shallow = true
