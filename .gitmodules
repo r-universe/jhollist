@@ -7,11 +7,14 @@
 	path = dadjokeapi
 	url = https://github.com/jhollist/dadjokeapi
 	shallow = true
+	registered = true
 [submodule "elevatr"]
 	path = elevatr
 	url = https://github.com/jhollist/elevatr
 	shallow = true
+	registered = true
 [submodule "quickmapr"]
 	path = quickmapr
 	url = https://github.com/jhollist/quickmapr
 	shallow = true
+	registered = true
