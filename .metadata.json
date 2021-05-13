@@ -1,0 +1,18 @@
+[
+  {
+    "package": "dadjokeapi",
+    "oncran": true
+  },
+  {
+    "package": "elevatr",
+    "oncran": true
+  },
+  {
+    "package": "lakemorpho",
+    "oncran": true
+  },
+  {
+    "package": "quickmapr",
+    "oncran": true
+  }
+]

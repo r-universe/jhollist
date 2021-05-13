@@ -8,22 +8,18 @@
 	url = https://github.com/jhollist/dadjokeapi
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "elevatr"]
 	path = elevatr
 	url = https://github.com/jhollist/elevatr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "lakemorpho"]
 	path = lakemorpho
 	url = https://github.com/jhollist/lakemorpho
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "quickmapr"]
 	path = quickmapr
 	url = https://github.com/jhollist/quickmapr
 	shallow = true
 	registered = true
-	oncran = true
