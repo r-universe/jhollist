@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dadjokeapi"]
 	path = dadjokeapi
 	url = https://github.com/jhollist/dadjokeapi
-	shallow = true
-	registered = true
 [submodule "elevatr"]
 	path = elevatr
 	url = https://github.com/jhollist/elevatr
-	shallow = true
-	registered = true
 [submodule "lakemorpho"]
 	path = lakemorpho
 	url = https://github.com/jhollist/lakemorpho
-	shallow = true
-	registered = true
 [submodule "quickmapr"]
 	path = quickmapr
 	url = https://github.com/jhollist/quickmapr
-	shallow = true
-	registered = true
