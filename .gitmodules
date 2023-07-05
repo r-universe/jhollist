@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/jhollist/jhollist.r-universe.dev
 	branch = HEAD
+[submodule "FedData"]
+	path = FedData
+	url = https://github.com/ropensci/FedData
+	registered = false
 [submodule "dadjokeapi"]
 	path = dadjokeapi
 	url = https://github.com/jhollist/dadjokeapi
