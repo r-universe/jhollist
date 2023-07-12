@@ -11,6 +11,3 @@
 [submodule "lakemorpho"]
 	path = lakemorpho
 	url = https://github.com/jhollist/lakemorpho
-[submodule "quickmapr"]
-	path = quickmapr
-	url = https://github.com/jhollist/quickmapr
