@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jhollist/jhollist.r-universe.dev
 	branch = HEAD
 [submodule "dadjokeapi"]
 	path = dadjokeapi
@@ -10,4 +10,10 @@
 	url = https://github.com/jhollist/elevatr
 [submodule "lakemorpho"]
 	path = lakemorpho
-	url = https://github.com/jhollist/lakemorpho
+	url = https://github.com/usepa/lakemorpho
+[submodule "nsink"]
+	path = nsink
+	url = https://github.com/usepa/nsink
+[submodule "quickmapr"]
+	path = quickmapr
+	url = https://github.com/geogugal/quickmapr
